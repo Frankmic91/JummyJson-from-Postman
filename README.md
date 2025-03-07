@@ -1,1 +1,1 @@
-# JummyJson-from-Postman
+# DummyJson-from-Postman
